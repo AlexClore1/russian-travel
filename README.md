@@ -6,4 +6,4 @@
 
 
 #### Ссылка на проект
-* [адаптивный сайт "Путешествия по России" на GitHub Pages](https://alexclore1.github.io/russian-travel /)
+* [адаптивный сайт "Путешествия по России" на GitHub Pages](https://alexclore1.github.io/russian-travel/)
