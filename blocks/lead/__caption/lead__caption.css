@@ -11,14 +11,12 @@
 
 @media (max-width: 963px) {
     .lead__caption {
-        padding: 0;
         margin: 8px 0 0 24px;
     }
 }
 
 @media (max-width: 480px) {
     .lead__caption {
-        padding: 0;
         margin: 8px 0 0 16px;
     }
 }
